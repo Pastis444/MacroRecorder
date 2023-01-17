@@ -20,9 +20,3 @@ You can also build in the command line. Set your JAVA_HOME environment variable 
 ```
 ./gradlew build -Dorg.gradle.java.home=/PATH/TO/JDK17
 ```
-
-## Extras
-
-
-
-<hr/>
